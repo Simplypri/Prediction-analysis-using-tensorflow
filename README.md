@@ -1,2 +1,2 @@
 # Prediction-analysis-using-tensorflow
-Developing a model using a  gem price prediction dataset.  So that when we pick a gem from ground,  depending on the features1 &amp; 2, we should predict  at what price we can sell this particular gem at the market(due to the fact that we have historical information on the price sold based on the two features)
+Let's pretend this data are measurements of some rare gem stones, with 2 measurement features and a sale price. Our final goal would be to try to predict the sale price of a new gem stone we just mined from the ground, in order to try to set a fair price in the market.
